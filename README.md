@@ -9,7 +9,7 @@ This repository contains multiple Power BI projects covering different domains, 
   - New cases and deaths by WHO region  
   - Global map of new deaths and cases  
   - Mortality and recovery rate analysis  
-- **Download:** [Covid-19 Analysis Report.pbix](./Covid%2019%20Analysis%20Report.pbix)
+- **Download:** [Covid-19 Analysis Report.pbix](./Covid%2019.pbix)
 
 ## 📊 2. Customer Churn Dashboard
 - **Dataset:** Customer transaction & behavior data
